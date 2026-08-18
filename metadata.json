@@ -1,0 +1,6 @@
+{
+  "name": "DOG STAR — Dog Riding & Pet Care",
+  "description": "Premium, professional dog riding, exercise, and dedicated dog care services. Happy Dogs. Happy Owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
